@@ -8,6 +8,7 @@ entries. It does not do any kind of post processing on the entries. The
 expectation is that one would write the entries in plain text, but then
 you can use whatever format you want.
 
+
 Installation
 ------------
 
